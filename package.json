@@ -1,0 +1,27 @@
+{
+  "name": "wa2-task-api",
+  "version": "1.0.0",
+  "description": "Task Management REST API for Valentius Internship WA-2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "rest-api",
+    "nodejs",
+    "express",
+    "jwt",
+    "sqlite"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "...",
+    "dotenv": "...",
+    "express": "..."
+  },
+  "devDependencies": {
+    "nodemon": "..."
+  }
+}
